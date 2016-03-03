@@ -1,4 +1,4 @@
 # Git - The Simple Guide
 
-http://rogerdudler.github.com/git-guide/
+http://zhangbg.github.com/git-guide/
 
